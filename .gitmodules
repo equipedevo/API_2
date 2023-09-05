@@ -1,0 +1,9 @@
+[submodule "src/API_2_BACK"]
+	path = src/API_2_BACK
+	url = https://github.com/equipedevo/API_2_BACK
+[submodule "src/API_2_FRONT"]
+	path = src/API_2_FRONT
+	url = https://github.com/equipedevo/API_2_FRONT
+[submodule "src/API_2_BD"]
+	path = src/API_2_BD
+	url = https://github.com/equipedevo/API_2_BD
