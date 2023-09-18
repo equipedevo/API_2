@@ -1,7 +1,6 @@
 <br id='topo'>
 
 <h1 align='center'> :beetle: EQUIPE DEVO :beetle: 
-</br>
 
 APRENDIZAGEM POR PROJETOS INTEGRADOS
 <br>
@@ -21,7 +20,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#equipe">Equipe</a> 
 </p>
 
-<span id='objetivo>
+<span id='objetivo'>
 
 <h2> :dart: Objetivo:</h2>
 
@@ -36,24 +35,24 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <h2> :clipboard: Requisitos:</h2>
 
-    <h3>Funcionais:</h3>
+<h3>Funcionais:</h3>
 
-    - :pushpin: Cadastros de Usuários, Técnicos, Equipamentos e Horários;
-    - :pushpin: Diferentes perfis de usuários (administrador, técnicos e clientes);
-    - :pushpin: Registro de chamados;
-    - :pushpin: Acompanhamento de chamados de ponta a ponta;
-    - :pushpin: Cadastro de soluções para problemas conhecidos.
+- :pushpin: Cadastros de Usuários, Técnicos, Equipamentos e Horários;
+- :pushpin: Diferentes perfis de usuários (administrador, técnicos e clientes);
+- :pushpin: Registro de chamados;
+- :pushpin: Acompanhamento de chamados de ponta a ponta;
+- :pushpin: Cadastro de soluções para problemas conhecidos.
 
-    <h3>Não Funcionais:</h3>
+<h3>Não Funcionais:</h3>
 
-    - :pushpin: Manual de usuário online;
-    - :pushpin: Guia de instalação;
-    - :pushpin: Protótipo de wireframe navegável.
+- :pushpin: Manual de usuário online;
+- :pushpin: Guia de instalação;
+- :pushpin: Protótipo de wireframe navegável.
 
-    → [Voltar ao topo](#topo)
+→ [Voltar ao topo](#topo)
 
 
-<span id="calendario">
+<span id='calendario'>
 
 <h2> :pushpin: Relatórios </h2>
 
@@ -80,8 +79,9 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 → [Voltar ao topo](#topo)
 
-<span id="tecnologias">
+<span id='tecnologias'>
 
+<h2>💻 Tecnologias: </h2>
 Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
 
 - [HTML5](https://www.w3schools.com/html/): Linguagem de marcação
@@ -101,16 +101,16 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 
 → [Voltar ao topo](#topo)  
 
-<span id="equipe">
+<span id='equipe'>
 
-    |Função|Nome|GitHub|LinkedIn|
-    | -------- |-------- |-------- |-------- |
-    | Scrum Master |Nathalia Ellen Domingos|<a href="https://github.com/nathalia-domingos/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/nathalia-domingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
-    | Product Owner |Gabriel Lucena do Rosário|<a href="https://github.com/tGrimR34per/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/lucena-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
-    | Developer |Mariana Izumi Silva|<a href="https://github.com/MariMiks/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/mariana-izumi-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
-    | Developer |Bruno Serpa P. Carvalho|<a href="https://github.com/BrunoSerpa/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/brunoserpa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
-    | Developer |Rafael Nunes F. Silva|<a href="https://github.com/Rafael-Nunes-Silva/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/rafael-silva-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
-    | Developer |Pedro Augusto N. Silva|<a href="https://github.com/pedroansdev/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/pedroaugustonogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
-    | Developer |Caíque Péricles Silva|<a href="https://github.com/PasteldePaodeCoxinha" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/caiquepastelsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+|Função|Nome|GitHub|LinkedIn|
+| -------- |-------- |-------- |-------- |
+| Scrum Master |Nathalia Ellen Domingos|<a href="https://github.com/nathalia-domingos/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/nathalia-domingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+| Product Owner |Gabriel Lucena do Rosário|<a href="https://github.com/tGrimR34per/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/lucena-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+| Developer |Mariana Izumi Silva|<a href="https://github.com/MariMiks/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/mariana-izumi-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+| Developer |Bruno Serpa P. Carvalho|<a href="https://github.com/BrunoSerpa/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/brunoserpa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+| Developer |Rafael Nunes F. Silva|<a href="https://github.com/Rafael-Nunes-Silva/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/rafael-silva-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+| Developer |Pedro Augusto N. Silva|<a href="https://github.com/pedroansdev/" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/pedroaugustonogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
+| Developer |Caíque Péricles Silva|<a href="https://github.com/PasteldePaodeCoxinha" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/caiquepastelsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>|
     
 → [Voltar ao topo](#topo)
