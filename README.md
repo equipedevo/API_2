@@ -76,7 +76,22 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 <h2>📑 Backlog total: </h2>
 
-```<!-- imagem do backlog -->```
+| ID  | Sprint |    Enquanto     |                                                        Desejo                                                        | Prioridade |                                             Critério de aceitação                                              |
+| :-: | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------: |:----------:| :------------------------------------------------------------------------------------------------------------: |
+| 001 | 1      | cliente         | ter um Wireframe navegável do projeto, para poder ter noção de como ficará o projeto finalizado                      | Alta       | Um wireframe feito numa plataforma de prototipação que demonstre elementos visuais do funcionamento do sistema |
+| 002 | 1      | cliente         | ter a documentação completa do projeto, para conhecer suas funcionalidades e requisitos                              | Alta       | Backlog do produto exposto no github da equipe desenvolvedora                                                  |
+| 003 | 2      | cliente         | cadastrar minha empresa, para gerencia-la adequadamente                                                              | Alta       | Sistema de cadastro e gerenciamento  da empresa.                                                               |
+| 004 | 2      | cliente-empresa |  cadastrar administradores, para que possam gerenciar o sistema para o cliente                                       | Alta       | Acesso ao usuário 'empresa', com opções para cadastrar outros usuários                                         |
+| 005 | 2      | cliente         |  que meu sistema possa ser utilizado através da web.                                                                 | Alta       | Desenvolver código em back-end com interface no front-end                                                      |
+| 006 | 2      | cliente-empresa |  que meus usuários possam abrir chamados.                                                                            | Alta	     | Página para abertura de chamadas de serviço                                                                    |
+| 007 | 2      | administrador   |  poder cadastrar técnicos e usuários-clientes, para que possam abrir chamados.                                       | Média      | Acesso ao usuário 'administrador', com opções para cadastrar outros usuários                                   |
+| 008 | 2      | administrador   |  que haja um registro de chamados, para  que eu possa ver e acompanhar todos os chamados existentes.                 | Média      | Página com o histórico de chamados                                                                             |
+| 009 | 2      | cliente         |  que meus usuários possam se desconectar do sistema, para manter a integridade do mesmo.                             | Baixa      | Criar botão permitindo que o usuário se desconecte                                                             |
+| 010 | 3      | cliente         |  que meus chamados possam ter seus status atualizados, para classifica-los de acordo com seu progresso de resolução. | Média      | Criação de status para os chamados e ferramente para editar os mesmos                                          |
+| 011 | 3      | administrador   |  poder gerenciar técnicos e usuários-clientes.                                                                       | Baixa      | Acesso ao usuário 'administrador', com opções para excluir e editar técnicos e funcionários                    |
+| 012 | 3      | cliente-empresa |  que todos os usuários do meu sistema possam alterar seus dados pessoais.                                            | Baixa      | Acesso ao perfil pessoal, com ferramenta para edição de informações, com conexão ao banco de dados             |
+| 013 | 4      | cliente         |  que qualquer usuário possa saber como usar o sistema,  que o sistema fique eficiente.                               | Média      | Botão de ajuda com manual online para usuários                                                                 |
+| 014 | 4      | administrador   |  ter acesso a relatórios analíticos do sistema, para poder acompanhar a eficácia do mesmo.                           | Baixa      | Página com relátorios  analíticos                                                                              |
 
 → [Voltar ao topo](#topo)
 
