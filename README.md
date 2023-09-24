@@ -7,7 +7,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 2º SEMESTRE DSM - 2023
 </h1>
 
-<h1> :zap: Sistema HERMEZ :zap: </h1>
+<h1 align='center'> :zap: Sistema HERMEZ :zap: </h1>
 
 ## :mag_right: Índice
 <p align='center'>
@@ -56,7 +56,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <!-- [ver entrega](link da sprint correspondente) -->
 | Sprint |  Entrega   |            Status           | Relatório |
 |:------:|:----------:|:---------------------------:|:---------:|
-| 01     | 24/09/2023 | :hourglass: Em adandamento  | --        |
+| 01     | 24/09/2023 | :white_check_mark: Finalizada!  | [ver entrega]()       |
 | 02     | 15/10/2023 | :construction: Não iniciada | --        |
 | 03     | 05/11/2023 | :construction: Não iniciada | --        |
 | 04     | 26/11/2023 | :construction: Não iniciada | --        |
@@ -68,7 +68,8 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 ## :incoming_envelope: Entregas
 
 ### Entrega da Sprint 1
-```<!-- gif da entrega 1 -->```
+
+<video src='https://youtu.be/66sqv9QKL5s' align='center'>
 
 → [Voltar ao topo](#topo)
 
@@ -78,20 +79,20 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 | ID  | Sprint |    Enquanto     |                                                        Desejo                                                        | Prioridade |                                             Critério de aceitação                                              |
 | :-: | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------: |:----------:| :------------------------------------------------------------------------------------------------------------: |
-| 001 | 1      | cliente         | ter um Wireframe navegável do projeto, para poder ter noção de como ficará o projeto finalizado                      | Alta       | Um wireframe feito numa plataforma de prototipação que demonstre elementos visuais do funcionamento do sistema |
-| 002 | 1      | cliente         | ter a documentação completa do projeto, para conhecer suas funcionalidades e requisitos                              | Alta       | Backlog do produto exposto no github da equipe desenvolvedora                                                  |
-| 003 | 2      | cliente         | cadastrar minha empresa, para gerencia-la adequadamente                                                              | Alta       | Sistema de cadastro e gerenciamento  da empresa.                                                               |
-| 004 | 2      | cliente-empresa |  cadastrar administradores, para que possam gerenciar o sistema para o cliente                                       | Alta       | Acesso ao usuário 'empresa', com opções para cadastrar outros usuários                                         |
-| 005 | 2      | cliente         |  que meu sistema possa ser utilizado através da web.                                                                 | Alta       | Desenvolver código em back-end com interface no front-end                                                      |
-| 006 | 2      | cliente-empresa |  que meus usuários possam abrir chamados.                                                                            | Alta	     | Página para abertura de chamadas de serviço                                                                    |
-| 007 | 2      | administrador   |  poder cadastrar técnicos e usuários-clientes, para que possam abrir chamados.                                       | Média      | Acesso ao usuário 'administrador', com opções para cadastrar outros usuários                                   |
-| 008 | 2      | administrador   |  que haja um registro de chamados, para  que eu possa ver e acompanhar todos os chamados existentes.                 | Média      | Página com o histórico de chamados                                                                             |
-| 009 | 2      | cliente         |  que meus usuários possam se desconectar do sistema, para manter a integridade do mesmo.                             | Baixa      | Criar botão permitindo que o usuário se desconecte                                                             |
-| 010 | 3      | cliente         |  que meus chamados possam ter seus status atualizados, para classifica-los de acordo com seu progresso de resolução. | Média      | Criação de status para os chamados e ferramente para editar os mesmos                                          |
-| 011 | 3      | administrador   |  poder gerenciar técnicos e usuários-clientes.                                                                       | Baixa      | Acesso ao usuário 'administrador', com opções para excluir e editar técnicos e funcionários                    |
-| 012 | 3      | cliente-empresa |  que todos os usuários do meu sistema possam alterar seus dados pessoais.                                            | Baixa      | Acesso ao perfil pessoal, com ferramenta para edição de informações, com conexão ao banco de dados             |
-| 013 | 4      | cliente         |  que qualquer usuário possa saber como usar o sistema,  que o sistema fique eficiente.                               | Média      | Botão de ajuda com manual online para usuários                                                                 |
-| 014 | 4      | administrador   |  ter acesso a relatórios analíticos do sistema, para poder acompanhar a eficácia do mesmo.                           | Baixa      | Página com relátorios  analíticos                                                                              |
+| 001 | 1      | Cliente         | ter um Wireframe navegável do projeto, para poder ter noção de como ficará o projeto finalizado                      | :red_circle: Alta       | Um wireframe feito numa plataforma de prototipação que demonstre elementos visuais do funcionamento do sistema |
+| 002 | 1      | Cliente         | ter a documentação completa do projeto, para conhecer suas funcionalidades e requisitos                              | :red_circle: Alta       | Backlog do produto exposto no github da equipe desenvolvedora                                                  |
+| 003 | 2      | Cliente         | cadastrar minha empresa, para gerencia-la adequadamente                                                              | :red_circle: Alta       | Sistema de cadastro e gerenciamento  da empresa.                                                               |
+| 004 | 2      | Cliente-empresa |  cadastrar administradores, para que possam gerenciar o sistema para o cliente                                       | :red_circle: Alta       | Acesso ao usuário 'empresa', com opções para cadastrar outros usuários                                         |
+| 005 | 2      | Cliente         |  que meu sistema possa ser utilizado através da web.                                                                 | :red_circle: Alta       | Desenvolver código em back-end com interface no front-end                                                      |
+| 006 | 2      | Cliente-empresa |  que meus usuários possam abrir chamados.                                                                            | :red_circle: Alta	     | Página para abertura de chamadas de serviço                                                                    |
+| 007 | 2      | Administrador   |  poder cadastrar técnicos e usuários-clientes, para que possam abrir chamados.                                       | :large_orange_diamond: Média      | Acesso ao usuário 'administrador', com opções para cadastrar outros usuários                                   |
+| 008 | 2      | Administrador   |  que haja um registro de chamados, para  que eu possa ver e acompanhar todos os chamados existentes.                 | :large_orange_diamond: Média      | Página com o histórico de chamados                                                                             |
+| 009 | 2      | Cliente         |  que meus usuários possam se desconectar do sistema, para manter a integridade do mesmo.                             | :white_circle: Baixa      | Criar botão permitindo que o usuário se desconecte                                                             |
+| 010 | 3      | Cliente         |  que meus chamados possam ter seus status atualizados, para classifica-los de acordo com seu progresso de resolução. | :large_orange_diamond: Média      | Criação de status para os chamados e ferramente para editar os mesmos                                          |
+| 011 | 3      | administrador   |  poder gerenciar técnicos e usuários-clientes.                                                                       | :white_circle: Baixa      | Acesso ao usuário 'administrador', com opções para excluir e editar técnicos e funcionários                    |
+| 012 | 3      | Cliente-empresa |  que todos os usuários do meu sistema possam alterar seus dados pessoais.                                            | :white_circle: Baixa      | Acesso ao perfil pessoal, com ferramenta para edição de informações, com conexão ao banco de dados             |
+| 013 | 4      | Cliente         |  que qualquer usuário possa saber como usar o sistema,  que o sistema fique eficiente.                               | :large_orange_diamond: Média      | Botão de ajuda com manual online para usuários                                                                 |
+| 014 | 4      | Administrador   |  ter acesso a relatórios analíticos do sistema, para poder acompanhar a eficácia do mesmo.                           | :white_circle: Baixa      | Página com relátorios  analíticos                                                                              |
 
 → [Voltar ao topo](#topo)
 
