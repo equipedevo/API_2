@@ -69,7 +69,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 ### Entrega da Sprint 1
 
-<video src='https://youtu.be/66sqv9QKL5s' align='center'>
+<video src='https://youtu.be/66sqv9QKL5s' align='center'></video>
 
 → [Voltar ao topo](#topo)
 
