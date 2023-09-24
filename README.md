@@ -56,7 +56,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <!-- [ver entrega](link da sprint correspondente) -->
 | Sprint |  Entrega   |            Status           | Relatório |
 |:------:|:----------:|:---------------------------:|:---------:|
-| 01     | 24/09/2023 | :white_check_mark: Finalizada!  | [ver entrega]()       |
+| 01     | 24/09/2023 | :white_check_mark: Finalizada!  | [ver entrega](https://github.com/equipedevo/API_2/blob/main/doc/sprints/Sprint_1.md)       |
 | 02     | 15/10/2023 | :construction: Não iniciada | --        |
 | 03     | 05/11/2023 | :construction: Não iniciada | --        |
 | 04     | 26/11/2023 | :construction: Não iniciada | --        |
@@ -69,7 +69,9 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 ### Entrega da Sprint 1
 
-<video src='https://youtu.be/66sqv9QKL5s' align='center'></video>
+
+https://github.com/equipedevo/API_2/assets/112097074/c8b9882c-46b2-40aa-9652-a38b01f72411
+
 
 → [Voltar ao topo](#topo)
 
