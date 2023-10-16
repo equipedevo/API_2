@@ -23,4 +23,7 @@ Para esta sprint, foi acordado com o cliente, a entrega do <a href="https://herm
 
 VIDEO DO PROJETO
 
+![hermezapi-2](https://github.com/equipedevo/API_2/assets/110677265/93983251-7db2-4887-9728-d73d06ecf6c1)
+
+
 <!-- → [Voltar ao topo](#topo) --> 
