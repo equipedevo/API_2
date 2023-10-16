@@ -71,7 +71,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 
 https://github.com/equipedevo/API_2/assets/112097074/c8b9882c-46b2-40aa-9652-a38b01f72411
-> Caso deseje ver o vídeo do sistema em funcionamento na íntegra, acesse o nosso vídeo no YouTube: <a href="https://youtu.be/66sqv9QKL5s?si=PUm-yNqFk8IuHhCR"> Clique Aqui </a>
+> Caso deseje ver o vídeo do sistema em funcionamento na íntegra, acesse o nosso vídeo no YouTube: <a href="https://www.youtube.com/watch?v=dX6JiipAvgc"> Clique Aqui </a>
 
 → [Voltar ao topo](#topo)
 
