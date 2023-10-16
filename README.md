@@ -67,10 +67,10 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 ## :incoming_envelope: Entregas
 
-### Entrega da Sprint 1
+### Entrega da Sprint 2
 
+![hermezapi-2](https://github.com/equipedevo/API_2/assets/110677265/dee7ee90-8644-4b36-8f9b-47a466ed21ad)
 
-https://github.com/equipedevo/API_2/assets/112097074/c8b9882c-46b2-40aa-9652-a38b01f72411
 > Caso deseje ver o vídeo do sistema em funcionamento na íntegra, acesse o nosso vídeo no YouTube: <a href="https://www.youtube.com/watch?v=dX6JiipAvgc"> Clique Aqui </a>
 
 → [Voltar ao topo](#topo)
