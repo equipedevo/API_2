@@ -81,8 +81,6 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 | ID  | Sprint |    Enquanto     |                                                        Desejo                                                        | Prioridade |                                             Critério de aceitação                                              |
 | :-: | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------: |:----------:| :------------------------------------------------------------------------------------------------------------: |
-| 001 | 1      | Cliente         | ter um Wireframe navegável do projeto, para poder ter noção de como ficará o projeto finalizado                      | :red_circle: Alta       | Um wireframe feito numa plataforma de prototipação que demonstre elementos visuais do funcionamento do sistema |
-| 002 | 1      | Cliente         | ter a documentação completa do projeto, para conhecer suas funcionalidades e requisitos                              | :red_circle: Alta       | Backlog do produto exposto no github da equipe desenvolvedora                                                  |
 | 003 | 2      | Cliente         | cadastrar minha empresa, para gerencia-la adequadamente                                                              | :red_circle: Alta       | Sistema de cadastro e gerenciamento  da empresa.                                                               |
 | 004 | 2      | Cliente-empresa |  cadastrar administradores, para que possam gerenciar o sistema para o cliente                                       | :red_circle: Alta       | Acesso ao usuário 'empresa', com opções para cadastrar outros usuários                                         |
 | 005 | 2      | Cliente         |  que meu sistema possa ser utilizado através da web.                                                                 | :red_circle: Alta       | Desenvolver código em back-end com interface no front-end                                                      |
@@ -112,7 +110,6 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [MySQL](https://www.mysql.com/): Banco de dados
 - [NodeJS](https://nodejs.org/): Runtime
 - [React](https://pt-br.reactjs.org/): Framework
-- [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
 
 → [Voltar ao topo](#topo)  
 <span id="equipe">
