@@ -58,7 +58,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 | 01     | 24/09/2023 | :white_check_mark: Finalizada!  | [Ver entrega](https://github.com/equipedevo/API_2/blob/main/doc/sprints/Sprint_1.md)       |
 | 02     | 15/10/2023 | :white_check_mark: Finalizada!  | [Ver entrega](https://github.com/equipedevo/API_2/blob/main/doc/sprints/Sprint_2.md)       |
 | 03     | 05/11/2023 | :white_check_mark: Finalizada!  | [Ver entrega](https://github.com/equipedevo/API_2/blob/main/doc/sprints/Sprint_3.md)       |
-| 04     | 26/11/2023 | :wrench: Em andamento | --        |
+| 04     | 26/11/2023 | :white_check_mark: Finalizada!  | [Ver entrega](https://github.com/equipedevo/API_2/blob/main/doc/sprints/Sprint_4.md)        |
 
 → [Voltar ao topo](#topo)
 
@@ -66,9 +66,9 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 ## :incoming_envelope: Entregas
 
-### Entrega da Sprint 3
+### Entrega da Sprint 4
 
-![2023-11-05_23-32-27](https://github.com/equipedevo/API_2/assets/110677265/fc3b2e18-dc3f-43b8-a0da-4e060e92497c)
+![Video sprint 4](https://github.com/equipedevo/API_2/assets/110677265/65084c5d-fa89-4e81-9733-ca1b2576eb8a)
 
 > Caso deseje ver o vídeo do sistema em funcionamento na íntegra, acesse o nosso vídeo no YouTube: <a href="https://www.youtube.com/watch?v=ovnUnatL-lE&feature=youtu.be"> Clique Aqui </a>
 
