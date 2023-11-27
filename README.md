@@ -70,7 +70,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 ![Video sprint 4](https://github.com/equipedevo/API_2/assets/110677265/65084c5d-fa89-4e81-9733-ca1b2576eb8a)
 
-> Caso deseje ver o vídeo do sistema em funcionamento na íntegra, acesse o nosso vídeo no YouTube: <a href="https://www.youtube.com/watch?v=ovnUnatL-lE&feature=youtu.be"> Clique Aqui </a>
+> Caso deseje ver o vídeo do sistema em funcionamento na íntegra, acesse o nosso vídeo no YouTube: <a href="https://www.youtube.com/watch?v=uk6x5mN4uqA"> Clique Aqui </a>
 
 → [Voltar ao topo](#topo)
 
