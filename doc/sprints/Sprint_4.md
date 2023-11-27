@@ -30,3 +30,5 @@ O DoR (Definição de Pronto) que utilizamos para esta sprint foi o backlog do p
 <h2> :minidisc: MINIMUM VIABLE PRODUCT - MVP </h2>
 
 <h3>VIDEO DO PROJETO</h3>
+
+![Video sprint 4](https://github.com/equipedevo/API_2/assets/110677265/3d3ecf50-0e57-4ee3-8d8b-2b3518f525ca)
