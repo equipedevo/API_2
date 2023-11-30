@@ -4,12 +4,18 @@
 
 <h2> DoR e DoD </h2>
 
+<h3>DoR</h3>
+
 O DoR (Definição de Pronto) que utilizamos para esta sprint foi o backlog do produto e as tarefas criadas a partir das User Stories da sprint em questão. Veja abaixo as USs citadas:
 
-| ID  | Sprint |    Enquanto     |                                                        Desejo                                                        | Prioridade |                                             Critério de aceitação                                              |
-| :-: | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------: |:----------:| :------------------------------------------------------------------------------------------------------------: |
-| 001 | 1      | Cliente         | Ter um Wireframe navegável do projeto, para poder ter noção de como ficará o projeto finalizado                      | :red_circle: Alta       | Um wireframe feito numa plataforma de prototipação que demonstre elementos visuais do funcionamento do sistema |
-| 002 | 1      | Cliente         | Ter a documentação completa do projeto, para conhecer suas funcionalidades e requisitos                              | :red_circle: Alta       | Backlog do produto exposto no github da equipe desenvolvedora                                                  |
+<h3>Backlog do produto</h3>
+
+| ID  | Sprint |    Enquanto     |                                                        Desejo                                                        | Prioridade |                                             Critério de aceitação                                              | Estimativa de esforço |
+| :-: | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------: |:----------:| :------------------------------------------------------------------------------------------------------------: |:-:|
+| 001 | 1      | Cliente         | Ter um Wireframe navegável do projeto, para poder ter noção de como ficará o projeto finalizado                      | :red_circle: Alta       | Um wireframe feito numa plataforma de prototipação que demonstre elementos visuais do funcionamento do sistema | 13 |
+| 002 | 1      | Cliente         | Ter a documentação completa do projeto, para conhecer suas funcionalidades e requisitos                              | :red_circle: Alta       | Backlog do produto exposto no github da equipe desenvolvedora                                                  | 3 |
+
+<h3>DoD</h3>
 
 Já o DoD (Definição de Feito) que utilizamos para esta sprint foi o protótipo navegável do projeto, bem como a <a href="https://github.com/equipedevo/API_2/#readme"> documentação completa </a> exposta no GitHub da equipe. Veja abaixo o vídeo do nosso <a href="#MVP"> MVP </a>
 
