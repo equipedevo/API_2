@@ -25,6 +25,8 @@ O DoR (Definição de Pronto) que utilizamos para esta sprint foi o backlog do p
 
 <h3>DoD</h3>
 
+O DoD (Definição de Feito) desta sprint foi basicamente concluir as funcionalidades que faltavam do sistema, como as funcionalidades de fechar chamado, trocar status, trocar prioridades e também colocar o manual do sistema com as funções de cada usuário de acordo com seu tipo de usuário.
+
 <span id='MVP'>
 
 <h2> :minidisc: MINIMUM VIABLE PRODUCT - MVP </h2>
